@@ -1,0 +1,450 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Tabs component should render without issues matches snapshot 1`] = `
+<div
+  className="sc-hKgILt fnpaVj"
+>
+  <button
+    className="sc-bdfBwQ hPnPZM"
+    disabled={true}
+    onClick={[Function]}
+    selected={false}
+  >
+    <span
+      className="sc-gsTCUz iwmIdS"
+    >
+      a
+    </span>
+    <span
+      className="sc-dlfnbm hQdJln"
+    >
+      0
+    </span>
+  </button>
+  <button
+    className="sc-bdfBwQ fdKsvb"
+    disabled={true}
+    onClick={[Function]}
+    selected={true}
+  >
+    <span
+      className="sc-gsTCUz iwmIdS"
+    >
+      b
+    </span>
+    <span
+      className="sc-dlfnbm hQdJln"
+    >
+      0
+    </span>
+  </button>
+  <button
+    className="sc-bdfBwQ hPnPZM"
+    disabled={true}
+    onClick={[Function]}
+    selected={false}
+  >
+    <span
+      className="sc-gsTCUz iwmIdS"
+    >
+      c
+    </span>
+    <span
+      className="sc-dlfnbm hQdJln"
+    >
+      0
+    </span>
+  </button>
+  <button
+    className="sc-bdfBwQ hPnPZM"
+    disabled={false}
+    onClick={[Function]}
+    selected={false}
+  >
+    <span
+      className="sc-gsTCUz iwmIdS"
+    >
+      d
+    </span>
+    <span
+      className="sc-dlfnbm hQdJln"
+    >
+      1
+    </span>
+  </button>
+  <button
+    className="sc-bdfBwQ hPnPZM"
+    disabled={true}
+    onClick={[Function]}
+    selected={false}
+  >
+    <span
+      className="sc-gsTCUz iwmIdS"
+    >
+      e
+    </span>
+    <span
+      className="sc-dlfnbm hQdJln"
+    >
+      0
+    </span>
+  </button>
+  <button
+    className="sc-bdfBwQ hPnPZM"
+    disabled={true}
+    onClick={[Function]}
+    selected={false}
+  >
+    <span
+      className="sc-gsTCUz iwmIdS"
+    >
+      f
+    </span>
+    <span
+      className="sc-dlfnbm hQdJln"
+    >
+      0
+    </span>
+  </button>
+  <button
+    className="sc-bdfBwQ hPnPZM"
+    disabled={true}
+    onClick={[Function]}
+    selected={false}
+  >
+    <span
+      className="sc-gsTCUz iwmIdS"
+    >
+      g
+    </span>
+    <span
+      className="sc-dlfnbm hQdJln"
+    >
+      0
+    </span>
+  </button>
+  <button
+    className="sc-bdfBwQ hPnPZM"
+    disabled={true}
+    onClick={[Function]}
+    selected={false}
+  >
+    <span
+      className="sc-gsTCUz iwmIdS"
+    >
+      h
+    </span>
+    <span
+      className="sc-dlfnbm hQdJln"
+    >
+      0
+    </span>
+  </button>
+  <button
+    className="sc-bdfBwQ hPnPZM"
+    disabled={true}
+    onClick={[Function]}
+    selected={false}
+  >
+    <span
+      className="sc-gsTCUz iwmIdS"
+    >
+      i
+    </span>
+    <span
+      className="sc-dlfnbm hQdJln"
+    >
+      0
+    </span>
+  </button>
+  <button
+    className="sc-bdfBwQ hPnPZM"
+    disabled={true}
+    onClick={[Function]}
+    selected={false}
+  >
+    <span
+      className="sc-gsTCUz iwmIdS"
+    >
+      j
+    </span>
+    <span
+      className="sc-dlfnbm hQdJln"
+    >
+      0
+    </span>
+  </button>
+  <button
+    className="sc-bdfBwQ hPnPZM"
+    disabled={true}
+    onClick={[Function]}
+    selected={false}
+  >
+    <span
+      className="sc-gsTCUz iwmIdS"
+    >
+      k
+    </span>
+    <span
+      className="sc-dlfnbm hQdJln"
+    >
+      0
+    </span>
+  </button>
+  <button
+    className="sc-bdfBwQ hPnPZM"
+    disabled={true}
+    onClick={[Function]}
+    selected={false}
+  >
+    <span
+      className="sc-gsTCUz iwmIdS"
+    >
+      l
+    </span>
+    <span
+      className="sc-dlfnbm hQdJln"
+    >
+      0
+    </span>
+  </button>
+  <button
+    className="sc-bdfBwQ hPnPZM"
+    disabled={true}
+    onClick={[Function]}
+    selected={false}
+  >
+    <span
+      className="sc-gsTCUz iwmIdS"
+    >
+      m
+    </span>
+    <span
+      className="sc-dlfnbm hQdJln"
+    >
+      0
+    </span>
+  </button>
+  <button
+    className="sc-bdfBwQ hPnPZM"
+    disabled={true}
+    onClick={[Function]}
+    selected={false}
+  >
+    <span
+      className="sc-gsTCUz iwmIdS"
+    >
+      n
+    </span>
+    <span
+      className="sc-dlfnbm hQdJln"
+    >
+      0
+    </span>
+  </button>
+  <button
+    className="sc-bdfBwQ hPnPZM"
+    disabled={true}
+    onClick={[Function]}
+    selected={false}
+  >
+    <span
+      className="sc-gsTCUz iwmIdS"
+    >
+      o
+    </span>
+    <span
+      className="sc-dlfnbm hQdJln"
+    >
+      0
+    </span>
+  </button>
+  <button
+    className="sc-bdfBwQ hPnPZM"
+    disabled={true}
+    onClick={[Function]}
+    selected={false}
+  >
+    <span
+      className="sc-gsTCUz iwmIdS"
+    >
+      p
+    </span>
+    <span
+      className="sc-dlfnbm hQdJln"
+    >
+      0
+    </span>
+  </button>
+  <button
+    className="sc-bdfBwQ hPnPZM"
+    disabled={true}
+    onClick={[Function]}
+    selected={false}
+  >
+    <span
+      className="sc-gsTCUz iwmIdS"
+    >
+      q
+    </span>
+    <span
+      className="sc-dlfnbm hQdJln"
+    >
+      0
+    </span>
+  </button>
+  <button
+    className="sc-bdfBwQ hPnPZM"
+    disabled={true}
+    onClick={[Function]}
+    selected={false}
+  >
+    <span
+      className="sc-gsTCUz iwmIdS"
+    >
+      r
+    </span>
+    <span
+      className="sc-dlfnbm hQdJln"
+    >
+      0
+    </span>
+  </button>
+  <button
+    className="sc-bdfBwQ hPnPZM"
+    disabled={true}
+    onClick={[Function]}
+    selected={false}
+  >
+    <span
+      className="sc-gsTCUz iwmIdS"
+    >
+      s
+    </span>
+    <span
+      className="sc-dlfnbm hQdJln"
+    >
+      0
+    </span>
+  </button>
+  <button
+    className="sc-bdfBwQ hPnPZM"
+    disabled={true}
+    onClick={[Function]}
+    selected={false}
+  >
+    <span
+      className="sc-gsTCUz iwmIdS"
+    >
+      t
+    </span>
+    <span
+      className="sc-dlfnbm hQdJln"
+    >
+      0
+    </span>
+  </button>
+  <button
+    className="sc-bdfBwQ hPnPZM"
+    disabled={true}
+    onClick={[Function]}
+    selected={false}
+  >
+    <span
+      className="sc-gsTCUz iwmIdS"
+    >
+      u
+    </span>
+    <span
+      className="sc-dlfnbm hQdJln"
+    >
+      0
+    </span>
+  </button>
+  <button
+    className="sc-bdfBwQ hPnPZM"
+    disabled={true}
+    onClick={[Function]}
+    selected={false}
+  >
+    <span
+      className="sc-gsTCUz iwmIdS"
+    >
+      v
+    </span>
+    <span
+      className="sc-dlfnbm hQdJln"
+    >
+      0
+    </span>
+  </button>
+  <button
+    className="sc-bdfBwQ hPnPZM"
+    disabled={true}
+    onClick={[Function]}
+    selected={false}
+  >
+    <span
+      className="sc-gsTCUz iwmIdS"
+    >
+      w
+    </span>
+    <span
+      className="sc-dlfnbm hQdJln"
+    >
+      0
+    </span>
+  </button>
+  <button
+    className="sc-bdfBwQ hPnPZM"
+    disabled={true}
+    onClick={[Function]}
+    selected={false}
+  >
+    <span
+      className="sc-gsTCUz iwmIdS"
+    >
+      x
+    </span>
+    <span
+      className="sc-dlfnbm hQdJln"
+    >
+      0
+    </span>
+  </button>
+  <button
+    className="sc-bdfBwQ hPnPZM"
+    disabled={true}
+    onClick={[Function]}
+    selected={false}
+  >
+    <span
+      className="sc-gsTCUz iwmIdS"
+    >
+      y
+    </span>
+    <span
+      className="sc-dlfnbm hQdJln"
+    >
+      0
+    </span>
+  </button>
+  <button
+    className="sc-bdfBwQ hPnPZM"
+    disabled={true}
+    onClick={[Function]}
+    selected={false}
+  >
+    <span
+      className="sc-gsTCUz iwmIdS"
+    >
+      z
+    </span>
+    <span
+      className="sc-dlfnbm hQdJln"
+    >
+      0
+    </span>
+  </button>
+</div>
+`;

@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Reducer data flow should match a snapshot 1`] = `
+Object {
+  "contacts": Object {
+    "error": null,
+    "list": Array [],
+    "loading": "idle",
+  },
+  "ui": Object {
+    "selectedContact": undefined,
+    "selectedTab": "a",
+  },
+}
+`;
